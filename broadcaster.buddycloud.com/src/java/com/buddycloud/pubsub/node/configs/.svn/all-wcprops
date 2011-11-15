@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/buddycloud/!svn/ver/1664/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/node/configs
+END
+AccessModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/node/configs/AccessModel.java
+END
+PersistentItems.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/node/configs/PersistentItems.java
+END
+UserChannelInitBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/buddycloud/!svn/ver/1664/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/node/configs/UserChannelInitBuilder.java
+END
+PresenceBasedDelivery.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/node/configs/PresenceBasedDelivery.java
+END
+PublishModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/node/configs/PublishModel.java
+END
+NotifyDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/node/configs/NotifyDelete.java
+END
+NotifyConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/node/configs/NotifyConfig.java
+END

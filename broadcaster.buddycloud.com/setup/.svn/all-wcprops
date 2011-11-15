@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/buddycloud/!svn/ver/1652/technology/server/external-components/broadcaster.buddycloud.com/setup
+END
+db_setup_psql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/buddycloud/!svn/ver/1652/technology/server/external-components/broadcaster.buddycloud.com/setup/db_setup_psql.sql
+END
+conf.ini
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/buddycloud/!svn/ver/1577/technology/server/external-components/broadcaster.buddycloud.com/setup/conf.ini
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/setup/log4j.properties
+END

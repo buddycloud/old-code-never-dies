@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/buddycloud/!svn/ver/1656/technology/server/external-components/broadcaster.buddycloud.com/build/lib/merge
+END
+httpmime-4.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/buddycloud/!svn/ver/1569/technology/server/external-components/broadcaster.buddycloud.com/build/lib/merge/httpmime-4.0.1.jar
+END
+commons-codec-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/buddycloud/!svn/ver/1656/technology/server/external-components/broadcaster.buddycloud.com/build/lib/merge/commons-codec-1.4.jar
+END
+httpcore-4.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/buddycloud/!svn/ver/1569/technology/server/external-components/broadcaster.buddycloud.com/build/lib/merge/httpcore-4.0.1.jar
+END
+jakarta-oro.jar
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/build/lib/merge/jakarta-oro.jar
+END
+xpp3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/build/lib/merge/xpp3.jar
+END
+httpclient-4.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/buddycloud/!svn/ver/1569/technology/server/external-components/broadcaster.buddycloud.com/build/lib/merge/httpclient-4.0.1.jar
+END
+dom4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/build/lib/merge/dom4j.jar
+END
+whack.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/build/lib/merge/whack.jar
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/build/lib/merge/commons-logging.jar
+END
+log4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/build/lib/merge/log4j.jar
+END
+postgresql-8.4-701.jdbc3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/build/lib/merge/postgresql-8.4-701.jdbc3.jar
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/buddycloud/!svn/ver/1656/technology/server/external-components/broadcaster.buddycloud.com/build/lib
+END
+junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/build/lib/junit.jar
+END
+ant-subdirtask.jar
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/build/lib/ant-subdirtask.jar
+END
+ant-contrib.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/build/lib/ant-contrib.jar
+END
+ant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/build/lib/ant.jar
+END

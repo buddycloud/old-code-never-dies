@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/buddycloud/!svn/ver/1679/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/packetHandlers/IQ/Namespace
+END
+AbstractNamespace.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/buddycloud/!svn/ver/1460/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/packetHandlers/IQ/Namespace/AbstractNamespace.java
+END
+PubSub.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/buddycloud/!svn/ver/1679/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/packetHandlers/IQ/Namespace/PubSub.java
+END
+QueuedIQAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/packetHandlers/IQ/Namespace/QueuedIQAction.java
+END
+Pubsubhubbub.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/buddycloud/!svn/ver/1676/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/packetHandlers/IQ/Namespace/Pubsubhubbub.java
+END
+ServiceDiscovery.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/buddycloud/!svn/ver/1658/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/packetHandlers/IQ/Namespace/ServiceDiscovery.java
+END
+PubSubOwner.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/buddycloud/!svn/ver/1629/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/packetHandlers/IQ/Namespace/PubSubOwner.java
+END
+Namespace.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/packetHandlers/IQ/Namespace/Namespace.java
+END
+Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/packetHandlers/IQ/Namespace/Action.java
+END
+Stats.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/buddycloud/!svn/ver/1657/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/packetHandlers/IQ/Namespace/Stats.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/exceptions
+END
+JidOutcastedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/exceptions/JidOutcastedException.java
+END
+AlreadySubscribedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/exceptions/AlreadySubscribedException.java
+END
+InvalidAccessModelException.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/exceptions/InvalidAccessModelException.java
+END
+JidNotInWhiteListException.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/exceptions/JidNotInWhiteListException.java
+END
+InvalidPublishModelException.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/exceptions/InvalidPublishModelException.java
+END

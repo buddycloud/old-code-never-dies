@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/buddycloud/!svn/ver/1664/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/Item
+END
+PubsubhubbubPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/buddycloud/!svn/ver/1656/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/Item/PubsubhubbubPacket.java
+END
+Entry.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/buddycloud/!svn/ver/1664/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/Item/Entry.java
+END
+ItemChangeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/Item/ItemChangeAction.java
+END
+ItemChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/Item/ItemChange.java
+END
+PayloadType.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/Item/PayloadType.java
+END

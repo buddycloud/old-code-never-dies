@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="src" path="tests"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="build/lib/ant-contrib.jar"/>
+	<classpathentry kind="lib" path="build/lib/ant-subdirtask.jar"/>
+	<classpathentry kind="lib" path="build/lib/ant.jar"/>
+	<classpathentry kind="lib" path="build/lib/junit.jar"/>
+	<classpathentry kind="lib" path="build/lib/merge/commons-logging.jar"/>
+	<classpathentry kind="lib" path="build/lib/merge/dom4j.jar"/>
+	<classpathentry kind="lib" path="build/lib/merge/jakarta-oro.jar"/>
+	<classpathentry kind="lib" path="build/lib/merge/log4j.jar"/>
+	<classpathentry kind="lib" path="build/lib/merge/whack.jar"/>
+	<classpathentry kind="lib" path="build/lib/merge/xpp3.jar"/>
+	<classpathentry kind="lib" path="build/lib/merge/postgresql-8.4-701.jdbc3.jar"/>
+	<classpathentry kind="lib" path="build/lib/merge/httpclient-4.0.1.jar"/>
+	<classpathentry kind="lib" path="build/lib/merge/httpmime-4.0.1.jar"/>
+	<classpathentry kind="lib" path="build/lib/merge/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="build/lib/merge/commons-codec-1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

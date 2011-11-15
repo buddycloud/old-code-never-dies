@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/buddycloud/!svn/ver/1679/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/managers
+END
+SubscriptionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/buddycloud/!svn/ver/1544/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/managers/SubscriptionManager.java
+END
+PubsubHubbubManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/buddycloud/!svn/ver/1679/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/managers/PubsubHubbubManager.java
+END
+OfflineEventStorageConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/buddycloud/!svn/ver/1544/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/managers/OfflineEventStorageConsumer.java
+END
+InQueueManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/buddycloud/!svn/ver/1669/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/managers/InQueueManager.java
+END
+OfflineEventStorageWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/buddycloud/!svn/ver/1544/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/managers/OfflineEventStorageWriter.java
+END
+OutQueueManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/buddycloud/!svn/ver/1470/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/managers/OutQueueManager.java
+END
+IncidentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/managers/IncidentManager.java
+END
+LeafnodeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/buddycloud/!svn/ver/1544/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/managers/LeafnodeManager.java
+END
+PubsubhubbubSubscriptionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/buddycloud/!svn/ver/1676/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/managers/PubsubhubbubSubscriptionManager.java
+END
+ItemManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/buddycloud/!svn/ver/1544/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/managers/ItemManager.java
+END
+RosterManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/buddycloud/!svn/ver/1569/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/managers/RosterManager.java
+END

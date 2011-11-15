@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/buddycloud/!svn/ver/1679/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/packetHandlers
+END
+PacketHandlerInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/packetHandlers/PacketHandlerInterface.java
+END
+PacketInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/buddycloud/!svn/ver/1337/technology/server/external-components/broadcaster.buddycloud.com/src/java/com/buddycloud/pubsub/packetHandlers/PacketInterface.java
+END
